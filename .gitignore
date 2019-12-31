@@ -1,0 +1,4 @@
+.well-known
+cgi-bin
+.htaccess
+error_log
